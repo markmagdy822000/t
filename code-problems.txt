@@ -1,0 +1,9 @@
+first point:
+- first five values are wrong
+
+second point:
+- v.size = 2205503 at id = 307458983
+- don't copy all the value in the vector(or don't push all the values in the vector)
+
+file csv problem:
+- some lines are repeated (column1,column2)
